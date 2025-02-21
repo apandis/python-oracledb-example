@@ -10,8 +10,8 @@ A minimal Python project that demonstrates how to connect to an Oracle database 
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>
-   cd my_project
+   git clone https://github.com/apandis/python-oracledb-example.git
+   cd python-oracledb-exampl
    ```
 ````
 
@@ -68,8 +68,3 @@ python -m unittest discover tests
 
 - [python-oracledb](https://oracle.github.io/python-oracledb/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
-
-```
-
-This `README.md` should give you a quick overview of how to set up and run the project.
-```
