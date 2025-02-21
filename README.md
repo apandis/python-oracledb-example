@@ -1,6 +1,3 @@
-Below is a simple `README.md` that outlines the project setup, running the application, and testing.
-
-````markdown
 # Oracle DB Connection Project
 
 A minimal Python project that demonstrates how to connect to an Oracle database using the `python-oracledb` driver.
@@ -13,7 +10,7 @@ A minimal Python project that demonstrates how to connect to an Oracle database 
    git clone https://github.com/apandis/python-oracledb-example.git
    cd python-oracledb-exampl
    ```
-````
+
 
 2. **Create and Activate a Virtual Environment:**
 
